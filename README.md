@@ -1,2 +1,2 @@
 # Janaina
- Assistente virtual em Python
+ Assistente virtual em Python.
